@@ -1,3 +1,25 @@
+# Create Your Story ✨
+
+Unlock your creativity with AI: craft stories like never before!  
+Let AI bring your imagination to life, one story at a time. 🚀
+
+## 📸 Preview
+![Landing Page](<img width="947" alt="Image" src="https://github.com/user-attachments/assets/2315f10e-8bf1-4a1b-a0ff-892b2cae24f0" />)
+
+## 🔥 Features
+✅ AI-powered story generation  
+✅ Multiple story types & age groups  
+✅ Beautiful image styles  
+✅ User-friendly UI 
+
+
+
+
+
+
+
+
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
