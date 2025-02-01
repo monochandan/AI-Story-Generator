@@ -4,7 +4,7 @@ Unlock your creativity with AI: craft stories like never before!
 Let AI bring your imagination to life, one story at a time. 🚀
 
 ## 📸 Preview
-![Landing Page]
+**Landing Page**
 <img width="947" alt="Image" src="https://github.com/user-attachments/assets/2315f10e-8bf1-4a1b-a0ff-892b2cae24f0" />
 
 ## 🔥 Features
