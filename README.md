@@ -16,6 +16,10 @@ Let AI bring your imagination to life, one story at a time. 🚀
 
 <img width="957" alt="Image" src="https://github.com/user-attachments/assets/28c420b9-d095-4d2d-9b5d-0815e055f5a9" />
 
+# From Given User Script, GEMINIAI generating the story
+
+<img width="948" alt="Image" src="https://github.com/user-attachments/assets/311ac3c4-9cbc-49ed-8463-5f2ff86e434a" />
+
 ## 🔥 Features
 ✅ AI-powered story generation  
 ✅ Multiple story types & age groups  
