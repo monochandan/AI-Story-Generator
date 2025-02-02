@@ -4,11 +4,17 @@ Unlock your creativity with AI: craft stories like never before!
 Let AI bring your imagination to life, one story at a time. 🚀
 
 ## 📸 Preview
-**Landing Page**
+# Landing Page
+
 <img width="947" alt="Image" src="https://github.com/user-attachments/assets/2315f10e-8bf1-4a1b-a0ff-892b2cae24f0" />
 
-**Create Story Page**
+# Create Story Page
+
 <img width="944" alt="Image" src="https://github.com/user-attachments/assets/57f40ce9-6bab-448a-891b-cb01438328c6" />
+
+# Generating Prompt Using Type Script
+
+<img width="957" alt="Image" src="https://github.com/user-attachments/assets/28c420b9-d095-4d2d-9b5d-0815e055f5a9" />
 
 ## 🔥 Features
 ✅ AI-powered story generation  
