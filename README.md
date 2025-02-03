@@ -26,6 +26,10 @@ Let AI bring your imagination to life, one story at a time. 🚀
 
 <img width="957" alt="Image" src="https://github.com/user-attachments/assets/209e2fb1-e71b-47df-af74-97977d6fa2bc" />
 
+# Adding custome Loader:
+
+<img width="950" alt="Image" src="https://github.com/user-attachments/assets/f6b51bfa-f1ee-44c5-9c2c-c51797221633" />
+
 ## 🔥 Features
 ✅ AI-powered story generation  
 ✅ Multiple story types & age groups  
