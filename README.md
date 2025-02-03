@@ -22,7 +22,7 @@ Let AI bring your imagination to life, one story at a time. 🚀
 <img width="948" alt="Image" src="https://github.com/user-attachments/assets/311ac3c4-9cbc-49ed-8463-5f2ff86e434a" />
 
 
-# Storing the Text data into the drizzle orm, using uuidmfor unique universal id generation
+# Storing the Text data into the drizzle orm, using uuid for unique universal id generation for each new inseretd data.
 
 <img width="957" alt="Image" src="https://github.com/user-attachments/assets/209e2fb1-e71b-47df-af74-97977d6fa2bc" />
 
