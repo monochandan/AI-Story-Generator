@@ -4,41 +4,41 @@ Unlock your creativity with AI: craft stories like never before!
 Let AI bring your imagination to life, one story at a time. 🚀
 
 ## 📸 Preview
-# Landing Page
+# Landing Page ✅
 
 <img width="947" alt="Image" src="https://github.com/user-attachments/assets/2315f10e-8bf1-4a1b-a0ff-892b2cae24f0" />
 
-# Create Story Page
+# Create Story Page ✅
 
 <img width="944" alt="Image" src="https://github.com/user-attachments/assets/57f40ce9-6bab-448a-891b-cb01438328c6" />
 
-# Generating Prompt Using Type Script
+# Generating Prompt Using Type Script ✅
 
 <img width="957" alt="Image" src="https://github.com/user-attachments/assets/28c420b9-d095-4d2d-9b5d-0815e055f5a9" />
 
-# From Given User Script, GEMINIAI generating the story
+# From Given User Script, GEMINIAI generating the story ✅
 ## USING gemini-2.0-flash-exp (experimental)
 
 <img width="948" alt="Image" src="https://github.com/user-attachments/assets/311ac3c4-9cbc-49ed-8463-5f2ff86e434a" />
 
 
-# Storing the Text data into the drizzle orm, using uuid for unique universal id generation for each new inseretd data.
+# Storing the Text data into the drizzle orm, using uuid for unique universal id generation for each new inseretd data. ✅
 
 <img width="957" alt="Image" src="https://github.com/user-attachments/assets/209e2fb1-e71b-47df-af74-97977d6fa2bc" />
 
-# Adding custome Loader:
+# Adding custome Loader: ✅
 
 <img width="950" alt="Image" src="https://github.com/user-attachments/assets/f6b51bfa-f1ee-44c5-9c2c-c51797221633" />
 
-# using replicate api to generate the image from the given prompt (model name : black-forest-labs/flux-schnell)
+# using replicate api to generate the image from the given prompt (model name : black-forest-labs/flux-schnell) ✅
 
 <img width="956" alt="Image" src="https://github.com/user-attachments/assets/ed2a5069-8da0-415b-a3ea-8483d27bede1" />
 
-# Storing the generated image into the FIREBASE storage (because after an houre the image will be deleted automatically from replicate)
+# Storing the generated image into the FIREBASE storage (because after an houre the image will be deleted automatically from replicate) ✅
 
 <img width="958" alt="Image" src="https://github.com/user-attachments/assets/0fef7756-770b-4e76-af42-fcfac8c6dc68" />
 
-# image inside the firebase storage 
+# image inside the firebase storage ✅
 
 <img width="770" alt="Image" src="https://github.com/user-attachments/assets/893ae0ef-8e1b-4464-b2d7-82b94d1b0d33" />
 
