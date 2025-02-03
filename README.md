@@ -30,6 +30,10 @@ Let AI bring your imagination to life, one story at a time. 🚀
 
 <img width="950" alt="Image" src="https://github.com/user-attachments/assets/f6b51bfa-f1ee-44c5-9c2c-c51797221633" />
 
+# using replicate api to generate the image from the given prompt (model name : black-forest-labs/flux-schnell)
+
+<img width="956" alt="Image" src="https://github.com/user-attachments/assets/ed2a5069-8da0-415b-a3ea-8483d27bede1" />
+
 ## 🔥 Features
 ✅ AI-powered story generation  
 ✅ Multiple story types & age groups  
