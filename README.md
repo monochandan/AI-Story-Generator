@@ -42,6 +42,11 @@ Let AI bring your imagination to life, one story at a time. 🚀
 
 <img width="770" alt="Image" src="https://github.com/user-attachments/assets/893ae0ef-8e1b-4464-b2d7-82b94d1b0d33" />
 
+# Story of cleaver dawrf (image generated from replicate -> temprarily stored in firebase  and than in drizzle ORM ) ✅
+
+<img width="959" alt="Image" src="https://github.com/user-attachments/assets/969a16a8-9c5d-4883-a7e5-0982f87665d9" />
+
+
 ## 🔥 Features
 ✅ AI-powered story generation  
 ✅ Multiple story types & age groups  
