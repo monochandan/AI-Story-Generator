@@ -34,6 +34,14 @@ Let AI bring your imagination to life, one story at a time. 🚀
 
 <img width="956" alt="Image" src="https://github.com/user-attachments/assets/ed2a5069-8da0-415b-a3ea-8483d27bede1" />
 
+# Storing the geebrate image into the FIREBASE storage
+
+<img width="958" alt="Image" src="https://github.com/user-attachments/assets/0fef7756-770b-4e76-af42-fcfac8c6dc68" />
+
+# image inside the firebase storage 
+
+<img width="770" alt="Image" src="https://github.com/user-attachments/assets/893ae0ef-8e1b-4464-b2d7-82b94d1b0d33" />
+
 ## 🔥 Features
 ✅ AI-powered story generation  
 ✅ Multiple story types & age groups  
