@@ -34,7 +34,7 @@ Let AI bring your imagination to life, one story at a time. 🚀
 
 <img width="956" alt="Image" src="https://github.com/user-attachments/assets/ed2a5069-8da0-415b-a3ea-8483d27bede1" />
 
-# Storing the geebrate image into the FIREBASE storage (because after an houre the image will be deleted automatically from replicate)
+# Storing the generated image into the FIREBASE storage (because after an houre the image will be deleted automatically from replicate)
 
 <img width="958" alt="Image" src="https://github.com/user-attachments/assets/0fef7756-770b-4e76-af42-fcfac8c6dc68" />
 
