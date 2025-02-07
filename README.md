@@ -46,6 +46,15 @@ Let AI bring your imagination to life, one story at a time. 🚀
 
 <img width="959" alt="Image" src="https://github.com/user-attachments/assets/969a16a8-9c5d-4883-a7e5-0982f87665d9" />
 
+# Created Story book Story generated from GEMINIAI and COver photo generated from Replicate api  ✅
+
+<img width="959" alt="Image" src="https://github.com/user-attachments/assets/53e9798a-4c3d-4461-a7fc-7b5194c05f45" />
+
+# Story chapters  ✅
+
+<img width="956" alt="image" src="https://github.com/user-attachments/assets/f7a53a33-e9f0-452d-ba17-41c227650fa7" />
+
+
 
 ## 🔥 Features
 ✅ AI-powered story generation  
