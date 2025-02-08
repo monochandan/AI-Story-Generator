@@ -54,7 +54,9 @@ Let AI bring your imagination to life, one story at a time. 🚀
 
 <img width="956" alt="image" src="https://github.com/user-attachments/assets/f7a53a33-e9f0-452d-ba17-41c227650fa7" />
 
-# Text To Speech generation 
+# Text To Speech generation :
+
+https://drive.google.com/file/d/1znQ4BnnvspHnthFfm6GsR3Lv7mw_-Vkv/view?usp=sharing
 
 
 
